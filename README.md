@@ -1,11 +1,12 @@
 ## 👋🏼 Ola! Eu sou o Leonardo Moura!
 
 - 👨🏽‍💻 Hoje estou trabalhando como Estagiário de TI
-- 👨🏽‍🎓 Cursando o 1° semestre em ADS na Univesp.
+- 👨🏽‍🎓 Cursando o 2° semestre de ADS na Univesp.
+- 👨🏽‍🎓 Cursando o 3° semestre de Engenharia de software na FAM.
 - ✍🏽 Estou aprimorando meus conhecimentos em Front-End e Back-End com os cursos da Alura e DIO.
-- 🌱 Estudando TypeScript, Angular e Python.
+- 🌱 Estudando TypeScript, Angular e Java.
 - 🚧 Estou construindo minha carreira profissional com muito entusiasmo e vontade de aprender.
-- 📱 WhatApp: (11) 94599-8234
+- 📱  WhatApp: (11) 94599-8234
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomouradeveloper&show_icons=true&theme=dracula&include_all_commits=true"/>
