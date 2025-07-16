@@ -1,10 +1,10 @@
 ## 👋🏼 Ola! Eu sou o Leonardo Moura!
 
-- 👨🏽‍💻 Hoje estou trabalhando como Estagiário de TI
-- 👨🏽‍🎓 Cursando o 2° semestre de ADS na Univesp.
-- 👨🏽‍🎓 Cursando o 3° semestre de Engenharia de software na FAM.
+- 👨🏽‍💻 Hoje estou trabalhando como Auxiliar de TI (Suporte N1)
+- 👨🏽‍🎓 Cursando o 3° semestre de ADS na Univesp.
+- 👨🏽‍🎓 Cursando o 4° semestre de Engenharia de software na FAM.
 - ✍🏽 Estou aprimorando meus conhecimentos em Front-End e Back-End com os cursos da Alura e DIO.
-- 🌱 Estudando TypeScript, Angular e Java.
+- 🌱 Estudando Node.js, Java e Spring Boot.
 - 🚧 Estou construindo minha carreira profissional com muito entusiasmo e vontade de aprender.
 - 📱  WhatApp: (11) 94599-8234
 
